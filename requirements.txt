@@ -1,0 +1,2 @@
+
+-e git+git://github.com/sethtrain/django-git.git#egg=django-git
