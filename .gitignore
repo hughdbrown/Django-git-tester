@@ -1,0 +1,4 @@
+*.db
+*.kpf
+*.pyc
+django-git/
